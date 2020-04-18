@@ -1,9 +1,7 @@
 const { fetchData } = require('./fetch-data')
 const { plotData } = require('./plot');
 
-const plotElemId = '#plotting_area';
-const plotElemWidth = 500;
-const plotElemHeight = 500;
+const plotElemId = '#plot_area';
 
 const data = fetchData();
-plotData(data, plotElemId, plotElemWidth, plotElemHeight);
+plotData(data, plotElemId, 500, 500);
