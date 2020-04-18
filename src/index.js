@@ -1,4 +1,9 @@
-const { plotCircle } = require('./d3-plot');
+const { fetchData } = require('./fetch-data')
+const { plotData } = require('./plot');
 
-plotCircle(10, 20, 40, 'pink');
-plotCircle(50, 100, 16, 'blue');
+const plotElemId = '#plotting_area';
+const plotElemWidth = 500;
+const plotElemHeight = 500;
+
+const data = fetchData();
+plotData(data, plotElemId, plotElemWidth, plotElemHeight);
