@@ -15,4 +15,4 @@ export const fetchData = () => {
     { x: 27, y: 832 },
     { x: 30, y: 854 },
   ];
-}
+};

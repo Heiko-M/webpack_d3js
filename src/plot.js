@@ -37,8 +37,8 @@ export const scatterPlot = (data, htmlElemId) => {
     .data(data)
     .enter()
     .append('circle')
-    .attr('cx', function ({ x }) { return xScale(x) })
-    .attr('cy', function ({ y }) { return yScale(y) })
+    .attr('cx', function ({ x }) { return xScale(x); })
+    .attr('cy', function ({ y }) { return yScale(y); })
     .attr('r', 5)
     .style('fill', 'steelblue');
-}
+};

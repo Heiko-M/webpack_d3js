@@ -1,4 +1,4 @@
-const { fetchData } = require('./fetch-data')
+const { fetchData } = require('./fetch-data');
 const { scatterPlot } = require('./plot');
 
 const plotElemId = '#plot_area';
