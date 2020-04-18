@@ -1,25 +1,18 @@
 const d3 = require('d3');
 
-const plotMargin = 25;
+const width = 500;
+const height = 500;
+const margins = { top: 10, right: 20, bottom: 20, left: 25 };
+const effectiveWidth = width - margins.left - margins.right;
+const effectiveHeight = height - margins.top - margins.bottom;
 
-const plotCircle = (svg, x, y, radius = 8, color = 'steelblue') => {
-  svg.append('circle')
-    .attr('cx', x)
-    .attr('cy', y)
-    .attr('r', radius)
-    .style('fill', color);
-}
-
-export const plotData = (data, htmlElemId, width, height) => {
-  var svg = d3.select(htmlElemId)
+export const scatterPlot = (data, htmlElemId) => {
+  const svg = d3.select(htmlElemId)
     .append('svg')
     .attr('width', width)
     .attr('height', height)
     .append('g')
-    .attr('transform', 'translate(' + plotMargin + ',' + plotMargin + ')');
-
-  const effectiveWidth = width - 2 * plotMargin;
-  const effectiveHeight = height - 2 * plotMargin;
+    .attr('transform', 'translate(' + margins.left + ',' + margins.top + ')');
 
   /* Data */
   var xScale = d3.scaleLinear()
@@ -27,12 +20,17 @@ export const plotData = (data, htmlElemId, width, height) => {
     .range([0, effectiveWidth]);
 
   var yScale = d3.scaleLinear()
-    .domain([1000, 0])  // inverse as y axis goes downward
-    .range([0, effectiveHeight]);
+    .domain([0, 1000])
+    .range([effectiveHeight, 0]);  // inverse as y axis goes downward
 
-  for (let i = 0; i < data.x.length; i++) {
-    plotCircle(svg, xScale(data.x[i]), yScale(data.y[i]));
-  }
+  svg.selectAll('dots')
+    .data(data)
+    .enter()
+    .append('circle')
+    .attr('cx', function ({ x }) { return xScale(x) })
+    .attr('cy', function ({ y }) { return yScale(y) })
+    .attr('r', 8)
+    .style('fill', 'steelblue');
 
   /* Axes */
   svg
