@@ -1,10 +1,12 @@
 {
   "name": "test_node_app",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Node App for Data Visualization with D3.js",
+  "private": true,
   "scripts": {
-    "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx serve dist",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +14,8 @@
     "d3": "^5.15.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "serve": "^11.3.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }
