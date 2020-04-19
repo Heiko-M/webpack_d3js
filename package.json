@@ -4,9 +4,9 @@
   "description": "Node App for Data Visualization with D3.js bundled with Webpack",
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server --open",
+    "start": "webpack-dev-server --open --config webpack.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack",
+    "build": "webpack --config webpack.prod.js",
     "lint": "eslint --fix src/**"
   },
   "author": "Heiko Müller",
@@ -20,6 +20,7 @@
     "html-webpack-plugin": "^4.2.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^3.10.3",
+    "webpack-merge": "^4.2.2"
   }
 }
