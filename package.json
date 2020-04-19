@@ -1,7 +1,7 @@
 {
-  "name": "test_node_app",
+  "name": "webpack_d3js",
   "version": "0.0.1",
-  "description": "Node App for Data Visualization with D3.js",
+  "description": "Node App for Data Visualization with D3.js bundled with Webpack",
   "private": true,
   "scripts": {
     "start": "npx serve dist",
@@ -9,7 +9,7 @@
     "build": "webpack",
     "lint": "eslint --fix src/**"
   },
-  "author": "",
+  "author": "Heiko Müller",
   "license": "ISC",
   "dependencies": {
     "d3": "^5.15.1"
