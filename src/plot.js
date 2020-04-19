@@ -6,6 +6,8 @@ const margins = { top: 10, right: 20, bottom: 20, left: 40 };
 const effectiveWidth = width - margins.left - margins.right;
 const effectiveHeight = height - margins.top - margins.bottom;
 
+const getDomainExtents = (dataPoints) => [Math.min(...dataPoints), Math.max(...dataPoints)];
+
 export const scatterPlot = (data, htmlElemId) => {
   const svg = d3.select(htmlElemId)
     .append('svg')
@@ -16,20 +18,18 @@ export const scatterPlot = (data, htmlElemId) => {
 
   /* Axes */
   var xScale = d3.scaleLinear()
-    .domain([0, 30])
+    .domain(getDomainExtents(data.map(({ x }) => x)))
     .range([0, effectiveWidth]);
 
   var yScale = d3.scaleLinear()
-    .domain([0, 1000])
+    .domain(getDomainExtents(data.map(({ y }) => y)))
     .range([effectiveHeight, 0]);  // inverse as y axis goes downward
 
-  svg
-    .append('g')
+  svg.append('g')
     .attr('transform', 'translate(' + 0 + ',' + effectiveHeight + ')')
     .call(d3.axisBottom(xScale));
 
-  svg
-    .append('g')
+  svg.append('g')
     .call(d3.axisLeft(yScale));
 
   /* Data */
