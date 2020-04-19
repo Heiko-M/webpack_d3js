@@ -6,7 +6,7 @@ This app is a personal project to learn Webpack and D3.js plus a few other thing
 
 ## Run
 
-To serve the app on localhost, run
+To serve the app on localhost for development, run
 
 ```sh
 npm start
@@ -14,7 +14,7 @@ npm start
 
 ## Build
 
-To generate an up-to-date bundle of all files with webpack, run
+To generate a production-ready bundle of all files with webpack in `dist/`, run
 
 ```sh
 npm run build
