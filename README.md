@@ -19,3 +19,7 @@ To generate a production-ready bundle of all files with webpack in `dist/`, run
 ```sh
 npm run build
 ```
+
+## Acknowledgements
+
+Net income data provided by [Eurostat](https://ec.europa.eu/eurostat/web/labour-market/earnings/database).

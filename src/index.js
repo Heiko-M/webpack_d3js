@@ -1,7 +1,6 @@
 const { fetchData } = require('./fetch-data');
-const { scatterPlot } = require('./plot');
+const { scatterPlot, lineChart } = require('./plot');
 
-const plotElemId = '#plot_area';
+lineChart('#line_chart', require('../data/net_income_euro_single_without_children_100%_of_AW.json'));
 
-const data = fetchData();
-scatterPlot(data, plotElemId);
+scatterPlot('#scatter_plot', fetchData());

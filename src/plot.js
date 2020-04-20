@@ -6,9 +6,21 @@ const margins = { top: 10, right: 20, bottom: 20, left: 40 };
 const effectiveWidth = width - margins.left - margins.right;
 const effectiveHeight = height - margins.top - margins.bottom;
 
-const getDomainExtents = (dataPoints) => [Math.min(...dataPoints), Math.max(...dataPoints)];
+const generateColorArray = (n) => {
+  const hexChars = '0123456789abcdef';
+  const colors = [];
 
-export const scatterPlot = (data, htmlElemId) => {
+  for (let i = 0; i < n; i++) {
+    colors[i] = '#';
+    for (let j = 0; j < 6; j++) {
+      colors[i] += hexChars[Math.floor(Math.random() * hexChars.length)];
+    }
+  }
+
+  return colors;
+};
+
+export const scatterPlot = (htmlElemId, data) => {
   const svg = d3.select(htmlElemId)
     .append('svg')
     .attr('width', width)
@@ -17,23 +29,23 @@ export const scatterPlot = (data, htmlElemId) => {
     .attr('transform', 'translate(' + margins.left + ',' + margins.top + ')');
 
   /* Axes */
-  var xScale = d3.scaleLinear()
-    .domain(getDomainExtents(data.map(({ x }) => x)))
+  const xScale = d3.scaleLinear()
+    .domain(d3.extent(data, ({ x }) => x))
     .range([0, effectiveWidth]);
-
-  var yScale = d3.scaleLinear()
-    .domain(getDomainExtents(data.map(({ y }) => y)))
-    .range([effectiveHeight, 0]);  // inverse as y axis goes downward
 
   svg.append('g')
     .attr('transform', 'translate(' + 0 + ',' + effectiveHeight + ')')
     .call(d3.axisBottom(xScale));
 
+  const yScale = d3.scaleLinear()
+    .domain(d3.extent(data, ({ y }) => y))
+    .range([effectiveHeight, 0]);  // inverse as y axis goes downward
+
   svg.append('g')
     .call(d3.axisLeft(yScale));
 
   /* Data */
-  svg.selectAll('dots')
+  svg.selectAll('.dot')
     .data(data)
     .enter()
     .append('circle')
@@ -41,4 +53,51 @@ export const scatterPlot = (data, htmlElemId) => {
     .attr('cy', ({ y }) => yScale(y))
     .attr('r', 5)
     .style('fill', 'steelblue');
+};
+
+export const lineChart = (htmlElemId, data) => {
+  const svg = d3.select(htmlElemId)
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height)
+    .append('g')
+    .attr('transform', 'translate(' + margins.left + ',' + margins.top + ')');
+
+  /* Axes */
+  const xScale = d3.scaleTime()
+    .domain(d3.extent(data, ({ year }) => d3.timeParse('%Y')(year)))
+    .range([0, effectiveWidth]);
+
+  svg.append('g')
+    .attr('transform', 'translate(' + 0 + ',' + effectiveHeight + ')')
+    .call(d3.axisBottom(xScale));
+
+  const yScale = d3.scaleLinear()
+    .domain([0, d3.max(data, ({ value }) => value)])
+    .range([effectiveHeight, 0]);  // inverse as y axis goes downward
+
+  svg.append('g')
+    .call(d3.axisLeft(yScale));
+
+  /* Data */
+  const dataGroupedByCountry = d3.nest()
+    .key(({ country }) => country)
+    .entries(data);
+  
+  const countries = dataGroupedByCountry.map(({ key }) => key);
+  const colorScale = d3.scaleOrdinal()
+    .domain(countries)
+    .range(generateColorArray(countries.length));
+
+  svg.selectAll('.line')
+    .data(dataGroupedByCountry)
+    .enter()
+    .append('path')
+    .attr('fill', 'none')
+    .attr('stroke', ({ key }) => colorScale(key))
+    .attr('stroke-width', 1.5)
+    .attr('d', ({ values }) => (d3.line()
+      .x(({ year }) => xScale(d3.timeParse('%Y')(year)))
+      .y(({ value }) => yScale(value))
+    )(values));
 };

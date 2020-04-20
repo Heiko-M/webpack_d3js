@@ -1,0 +1,3042 @@
+[
+  {
+    "year": 2000,
+    "country": "Belgium",
+    "value": 18034.69
+  },
+  {
+    "year": 2001,
+    "country": "Belgium",
+    "value": 18884.08
+  },
+  {
+    "year": 2002,
+    "country": "Belgium",
+    "value": 19686.29
+  },
+  {
+    "year": 2003,
+    "country": "Belgium",
+    "value": 20097.89
+  },
+  {
+    "year": 2004,
+    "country": "Belgium",
+    "value": 20739.41
+  },
+  {
+    "year": 2005,
+    "country": "Belgium",
+    "value": 21273.34
+  },
+  {
+    "year": 2006,
+    "country": "Belgium",
+    "value": 21880.46
+  },
+  {
+    "year": 2007,
+    "country": "Belgium",
+    "value": 22396.97
+  },
+  {
+    "year": 2008,
+    "country": "Belgium",
+    "value": 23405.3
+  },
+  {
+    "year": 2009,
+    "country": "Belgium",
+    "value": 24323.59
+  },
+  {
+    "year": 2010,
+    "country": "Belgium",
+    "value": 24873.45
+  },
+  {
+    "year": 2011,
+    "country": "Belgium",
+    "value": 25519.85
+  },
+  {
+    "year": 2012,
+    "country": "Belgium",
+    "value": 26287.51
+  },
+  {
+    "year": 2013,
+    "country": "Belgium",
+    "value": 26609.36
+  },
+  {
+    "year": 2014,
+    "country": "Belgium",
+    "value": 26775.94
+  },
+  {
+    "year": 2015,
+    "country": "Belgium",
+    "value": 26953.59
+  },
+  {
+    "year": 2016,
+    "country": "Belgium",
+    "value": 27574.37
+  },
+  {
+    "year": 2017,
+    "country": "Belgium",
+    "value": 28238.76
+  },
+  {
+    "year": 2018,
+    "country": "Belgium",
+    "value": 29240.96
+  },
+  {
+    "year": 2000,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2001,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2002,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2003,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2004,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2005,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2006,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2007,
+    "country": "Bulgaria",
+    "value": null
+  },
+  {
+    "year": 2008,
+    "country": "Bulgaria",
+    "value": 2605.86
+  },
+  {
+    "year": 2009,
+    "country": "Bulgaria",
+    "value": 2951.37
+  },
+  {
+    "year": 2010,
+    "country": "Bulgaria",
+    "value": 3202.34
+  },
+  {
+    "year": 2011,
+    "country": "Bulgaria",
+    "value": 3396.45
+  },
+  {
+    "year": 2012,
+    "country": "Bulgaria",
+    "value": 3598.45
+  },
+  {
+    "year": 2013,
+    "country": "Bulgaria",
+    "value": 3798.06
+  },
+  {
+    "year": 2014,
+    "country": "Bulgaria",
+    "value": 4033.73
+  },
+  {
+    "year": 2015,
+    "country": "Bulgaria",
+    "value": 4339.15
+  },
+  {
+    "year": 2016,
+    "country": "Bulgaria",
+    "value": 4689.05
+  },
+  {
+    "year": 2017,
+    "country": "Bulgaria",
+    "value": 5132.74
+  },
+  {
+    "year": 2018,
+    "country": "Bulgaria",
+    "value": 5447.1
+  },
+  {
+    "year": 2000,
+    "country": "Czechia",
+    "value": 3503.73
+  },
+  {
+    "year": 2001,
+    "country": "Czechia",
+    "value": 3960.76
+  },
+  {
+    "year": 2002,
+    "country": "Czechia",
+    "value": 4676.61
+  },
+  {
+    "year": 2003,
+    "country": "Czechia",
+    "value": 4721.51
+  },
+  {
+    "year": 2004,
+    "country": "Czechia",
+    "value": 4999.03
+  },
+  {
+    "year": 2005,
+    "country": "Czechia",
+    "value": 5587.37
+  },
+  {
+    "year": 2006,
+    "country": "Czechia",
+    "value": 6394.53
+  },
+  {
+    "year": 2007,
+    "country": "Czechia",
+    "value": 6962.34
+  },
+  {
+    "year": 2008,
+    "country": "Czechia",
+    "value": 8345.94
+  },
+  {
+    "year": 2009,
+    "country": "Czechia",
+    "value": 8286.75
+  },
+  {
+    "year": 2010,
+    "country": "Czechia",
+    "value": 8812.03
+  },
+  {
+    "year": 2011,
+    "country": "Czechia",
+    "value": 9234.77
+  },
+  {
+    "year": 2012,
+    "country": "Czechia",
+    "value": 9275.22
+  },
+  {
+    "year": 2013,
+    "country": "Czechia",
+    "value": 8961.78
+  },
+  {
+    "year": 2014,
+    "country": "Czechia",
+    "value": 8674.36
+  },
+  {
+    "year": 2015,
+    "country": "Czechia",
+    "value": 9008.76
+  },
+  {
+    "year": 2016,
+    "country": "Czechia",
+    "value": 9449.38
+  },
+  {
+    "year": 2017,
+    "country": "Czechia",
+    "value": 10296.87
+  },
+  {
+    "year": 2018,
+    "country": "Czechia",
+    "value": 11293.03
+  },
+  {
+    "year": 2000,
+    "country": "Denmark",
+    "value": 22125.95
+  },
+  {
+    "year": 2001,
+    "country": "Denmark",
+    "value": 23268.35
+  },
+  {
+    "year": 2002,
+    "country": "Denmark",
+    "value": 24439.83
+  },
+  {
+    "year": 2003,
+    "country": "Denmark",
+    "value": 25154
+  },
+  {
+    "year": 2004,
+    "country": "Denmark",
+    "value": 26117.61
+  },
+  {
+    "year": 2005,
+    "country": "Denmark",
+    "value": 26440.34
+  },
+  {
+    "year": 2006,
+    "country": "Denmark",
+    "value": 27243.49
+  },
+  {
+    "year": 2007,
+    "country": "Denmark",
+    "value": 28469.58
+  },
+  {
+    "year": 2008,
+    "country": "Denmark",
+    "value": 29595.89
+  },
+  {
+    "year": 2009,
+    "country": "Denmark",
+    "value": 30962.07
+  },
+  {
+    "year": 2010,
+    "country": "Denmark",
+    "value": 32349.16
+  },
+  {
+    "year": 2011,
+    "country": "Denmark",
+    "value": 33153.44
+  },
+  {
+    "year": 2012,
+    "country": "Denmark",
+    "value": 33617.32
+  },
+  {
+    "year": 2013,
+    "country": "Denmark",
+    "value": 33873.44
+  },
+  {
+    "year": 2014,
+    "country": "Denmark",
+    "value": 34330.38
+  },
+  {
+    "year": 2015,
+    "country": "Denmark",
+    "value": 34689.46
+  },
+  {
+    "year": 2016,
+    "country": "Denmark",
+    "value": 35021.65
+  },
+  {
+    "year": 2017,
+    "country": "Denmark",
+    "value": 35558.92
+  },
+  {
+    "year": 2018,
+    "country": "Denmark",
+    "value": 36515.61
+  },
+  {
+    "year": 2000,
+    "country": "Germany",
+    "value": 19538.92
+  },
+  {
+    "year": 2001,
+    "country": "Germany",
+    "value": 20406.53
+  },
+  {
+    "year": 2002,
+    "country": "Germany",
+    "value": 20871.73
+  },
+  {
+    "year": 2003,
+    "country": "Germany",
+    "value": 21067.22
+  },
+  {
+    "year": 2004,
+    "country": "Germany",
+    "value": 21992.56
+  },
+  {
+    "year": 2005,
+    "country": "Germany",
+    "value": 22363.1
+  },
+  {
+    "year": 2006,
+    "country": "Germany",
+    "value": 22504.85
+  },
+  {
+    "year": 2007,
+    "country": "Germany",
+    "value": 23194.68
+  },
+  {
+    "year": 2008,
+    "country": "Germany",
+    "value": 23841.5
+  },
+  {
+    "year": 2009,
+    "country": "Germany",
+    "value": 23870.65
+  },
+  {
+    "year": 2010,
+    "country": "Germany",
+    "value": 25374.06
+  },
+  {
+    "year": 2011,
+    "country": "Germany",
+    "value": 26088.04
+  },
+  {
+    "year": 2012,
+    "country": "Germany",
+    "value": 26729.61
+  },
+  {
+    "year": 2013,
+    "country": "Germany",
+    "value": 27171.01
+  },
+  {
+    "year": 2014,
+    "country": "Germany",
+    "value": 27791.42
+  },
+  {
+    "year": 2015,
+    "country": "Germany",
+    "value": 28410.71
+  },
+  {
+    "year": 2016,
+    "country": "Germany",
+    "value": 29081.67
+  },
+  {
+    "year": 2017,
+    "country": "Germany",
+    "value": 29562.73
+  },
+  {
+    "year": 2018,
+    "country": "Germany",
+    "value": 30547.68
+  },
+  {
+    "year": 2000,
+    "country": "Estonia",
+    "value": 3068.14
+  },
+  {
+    "year": 2001,
+    "country": "Estonia",
+    "value": 3465.43
+  },
+  {
+    "year": 2002,
+    "country": "Estonia",
+    "value": 3804.81
+  },
+  {
+    "year": 2003,
+    "country": "Estonia",
+    "value": 4105.69
+  },
+  {
+    "year": 2004,
+    "country": "Estonia",
+    "value": 4470.88
+  },
+  {
+    "year": 2005,
+    "country": "Estonia",
+    "value": 5056.23
+  },
+  {
+    "year": 2006,
+    "country": "Estonia",
+    "value": 6059.12
+  },
+  {
+    "year": 2007,
+    "country": "Estonia",
+    "value": 7268.34
+  },
+  {
+    "year": 2008,
+    "country": "Estonia",
+    "value": 8249.96
+  },
+  {
+    "year": 2009,
+    "country": "Estonia",
+    "value": 7729.46
+  },
+  {
+    "year": 2010,
+    "country": "Estonia",
+    "value": 7820.19
+  },
+  {
+    "year": 2011,
+    "country": "Estonia",
+    "value": 8324.26
+  },
+  {
+    "year": 2012,
+    "country": "Estonia",
+    "value": 8812.65
+  },
+  {
+    "year": 2013,
+    "country": "Estonia",
+    "value": 9445.7
+  },
+  {
+    "year": 2014,
+    "country": "Estonia",
+    "value": 9914.95
+  },
+  {
+    "year": 2015,
+    "country": "Estonia",
+    "value": 10638.42
+  },
+  {
+    "year": 2016,
+    "country": "Estonia",
+    "value": 11454.71
+  },
+  {
+    "year": 2017,
+    "country": "Estonia",
+    "value": 12233.44
+  },
+  {
+    "year": 2018,
+    "country": "Estonia",
+    "value": 13437.69
+  },
+  {
+    "year": 2000,
+    "country": "Ireland",
+    "value": 20955.59
+  },
+  {
+    "year": 2001,
+    "country": "Ireland",
+    "value": 24226.44
+  },
+  {
+    "year": 2002,
+    "country": "Ireland",
+    "value": 25751.62
+  },
+  {
+    "year": 2003,
+    "country": "Ireland",
+    "value": 26885.98
+  },
+  {
+    "year": 2004,
+    "country": "Ireland",
+    "value": 28094.38
+  },
+  {
+    "year": 2005,
+    "country": "Ireland",
+    "value": 29375.79
+  },
+  {
+    "year": 2006,
+    "country": "Ireland",
+    "value": 30879.33
+  },
+  {
+    "year": 2007,
+    "country": "Ireland",
+    "value": 32646.18
+  },
+  {
+    "year": 2008,
+    "country": "Ireland",
+    "value": 34033.21
+  },
+  {
+    "year": 2009,
+    "country": "Ireland",
+    "value": 32441.06
+  },
+  {
+    "year": 2010,
+    "country": "Ireland",
+    "value": 32138.69
+  },
+  {
+    "year": 2011,
+    "country": "Ireland",
+    "value": 31159.23
+  },
+  {
+    "year": 2012,
+    "country": "Ireland",
+    "value": 31541.73
+  },
+  {
+    "year": 2013,
+    "country": "Ireland",
+    "value": 31531.28
+  },
+  {
+    "year": 2014,
+    "country": "Ireland",
+    "value": 31687.39
+  },
+  {
+    "year": 2015,
+    "country": "Ireland",
+    "value": 32344.52
+  },
+  {
+    "year": 2016,
+    "country": "Ireland",
+    "value": 33346.95
+  },
+  {
+    "year": 2017,
+    "country": "Ireland",
+    "value": 33976.58
+  },
+  {
+    "year": 2018,
+    "country": "Ireland",
+    "value": 35126.52
+  },
+  {
+    "year": 2000,
+    "country": "Greece",
+    "value": 12097.72
+  },
+  {
+    "year": 2001,
+    "country": "Greece",
+    "value": 12421.56
+  },
+  {
+    "year": 2002,
+    "country": "Greece",
+    "value": 13488.96
+  },
+  {
+    "year": 2003,
+    "country": "Greece",
+    "value": 14823.09
+  },
+  {
+    "year": 2004,
+    "country": "Greece",
+    "value": 16120.31
+  },
+  {
+    "year": 2005,
+    "country": "Greece",
+    "value": 16543.31
+  },
+  {
+    "year": 2006,
+    "country": "Greece",
+    "value": 17594.29
+  },
+  {
+    "year": 2007,
+    "country": "Greece",
+    "value": 17754.74
+  },
+  {
+    "year": 2008,
+    "country": "Greece",
+    "value": 17864.29
+  },
+  {
+    "year": 2009,
+    "country": "Greece",
+    "value": 18478.46
+  },
+  {
+    "year": 2010,
+    "country": "Greece",
+    "value": 18541.11
+  },
+  {
+    "year": 2011,
+    "country": "Greece",
+    "value": 17536.8
+  },
+  {
+    "year": 2012,
+    "country": "Greece",
+    "value": 17102.52
+  },
+  {
+    "year": 2013,
+    "country": "Greece",
+    "value": 15786.95
+  },
+  {
+    "year": 2014,
+    "country": "Greece",
+    "value": 16010.75
+  },
+  {
+    "year": 2015,
+    "country": "Greece",
+    "value": 15791.95
+  },
+  {
+    "year": 2016,
+    "country": "Greece",
+    "value": 15378.71
+  },
+  {
+    "year": 2017,
+    "country": "Greece",
+    "value": 15484.82
+  },
+  {
+    "year": 2018,
+    "country": "Greece",
+    "value": 15712.76
+  },
+  {
+    "year": 2000,
+    "country": "Spain",
+    "value": 13881.61
+  },
+  {
+    "year": 2001,
+    "country": "Spain",
+    "value": 14308.82
+  },
+  {
+    "year": 2002,
+    "country": "Spain",
+    "value": 14793.85
+  },
+  {
+    "year": 2003,
+    "country": "Spain",
+    "value": 15548.87
+  },
+  {
+    "year": 2004,
+    "country": "Spain",
+    "value": 16019.09
+  },
+  {
+    "year": 2005,
+    "country": "Spain",
+    "value": 16432.65
+  },
+  {
+    "year": 2006,
+    "country": "Spain",
+    "value": 16832.53
+  },
+  {
+    "year": 2007,
+    "country": "Spain",
+    "value": 17461.33
+  },
+  {
+    "year": 2008,
+    "country": "Spain",
+    "value": 18765.37
+  },
+  {
+    "year": 2009,
+    "country": "Spain",
+    "value": 19380.5
+  },
+  {
+    "year": 2010,
+    "country": "Spain",
+    "value": 19399.72
+  },
+  {
+    "year": 2011,
+    "country": "Spain",
+    "value": 19891.57
+  },
+  {
+    "year": 2012,
+    "country": "Spain",
+    "value": 19975.06
+  },
+  {
+    "year": 2013,
+    "country": "Spain",
+    "value": 20061.89
+  },
+  {
+    "year": 2014,
+    "country": "Spain",
+    "value": 20169.47
+  },
+  {
+    "year": 2015,
+    "country": "Spain",
+    "value": 20844.88
+  },
+  {
+    "year": 2016,
+    "country": "Spain",
+    "value": 20827.52
+  },
+  {
+    "year": 2017,
+    "country": "Spain",
+    "value": 20948.65
+  },
+  {
+    "year": 2018,
+    "country": "Spain",
+    "value": 21198.42
+  },
+  {
+    "year": 2000,
+    "country": "France",
+    "value": 18923.39
+  },
+  {
+    "year": 2001,
+    "country": "France",
+    "value": 19510.12
+  },
+  {
+    "year": 2002,
+    "country": "France",
+    "value": 20169.97
+  },
+  {
+    "year": 2003,
+    "country": "France",
+    "value": 20612.84
+  },
+  {
+    "year": 2004,
+    "country": "France",
+    "value": 21131.59
+  },
+  {
+    "year": 2005,
+    "country": "France",
+    "value": 21709.55
+  },
+  {
+    "year": 2006,
+    "country": "France",
+    "value": 22675.17
+  },
+  {
+    "year": 2007,
+    "country": "France",
+    "value": 23415.09
+  },
+  {
+    "year": 2008,
+    "country": "France",
+    "value": 24249.74
+  },
+  {
+    "year": 2009,
+    "country": "France",
+    "value": 24627.9
+  },
+  {
+    "year": 2010,
+    "country": "France",
+    "value": 25031.8
+  },
+  {
+    "year": 2011,
+    "country": "France",
+    "value": 25576.25
+  },
+  {
+    "year": 2012,
+    "country": "France",
+    "value": 25978.92
+  },
+  {
+    "year": 2013,
+    "country": "France",
+    "value": 26269.15
+  },
+  {
+    "year": 2014,
+    "country": "France",
+    "value": 26578.46
+  },
+  {
+    "year": 2015,
+    "country": "France",
+    "value": 26768.13
+  },
+  {
+    "year": 2016,
+    "country": "France",
+    "value": 26920.45
+  },
+  {
+    "year": 2017,
+    "country": "France",
+    "value": 27333.26
+  },
+  {
+    "year": 2018,
+    "country": "France",
+    "value": 28037.6
+  },
+  {
+    "year": 2000,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2001,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2002,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2003,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2004,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2005,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2006,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2007,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2008,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2009,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2010,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2011,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2012,
+    "country": "Croatia",
+    "value": null
+  },
+  {
+    "year": 2013,
+    "country": "Croatia",
+    "value": 7890.98
+  },
+  {
+    "year": 2014,
+    "country": "Croatia",
+    "value": 7866.1
+  },
+  {
+    "year": 2015,
+    "country": "Croatia",
+    "value": 8210.37
+  },
+  {
+    "year": 2016,
+    "country": "Croatia",
+    "value": 8445.33
+  },
+  {
+    "year": 2017,
+    "country": "Croatia",
+    "value": 8872.01
+  },
+  {
+    "year": 2018,
+    "country": "Croatia",
+    "value": 9312.09
+  },
+  {
+    "year": 2000,
+    "country": "Italy",
+    "value": 15290.8
+  },
+  {
+    "year": 2001,
+    "country": "Italy",
+    "value": 15866.15
+  },
+  {
+    "year": 2002,
+    "country": "Italy",
+    "value": 16104.1
+  },
+  {
+    "year": 2003,
+    "country": "Italy",
+    "value": 16617.85
+  },
+  {
+    "year": 2004,
+    "country": "Italy",
+    "value": 16958.72
+  },
+  {
+    "year": 2005,
+    "country": "Italy",
+    "value": 17601.62
+  },
+  {
+    "year": 2006,
+    "country": "Italy",
+    "value": 17984.55
+  },
+  {
+    "year": 2007,
+    "country": "Italy",
+    "value": 18272.59
+  },
+  {
+    "year": 2008,
+    "country": "Italy",
+    "value": 18917.81
+  },
+  {
+    "year": 2009,
+    "country": "Italy",
+    "value": 19269.56
+  },
+  {
+    "year": 2010,
+    "country": "Italy",
+    "value": 19705.17
+  },
+  {
+    "year": 2011,
+    "country": "Italy",
+    "value": 19983.62
+  },
+  {
+    "year": 2012,
+    "country": "Italy",
+    "value": 20327.68
+  },
+  {
+    "year": 2013,
+    "country": "Italy",
+    "value": 20656.6
+  },
+  {
+    "year": 2014,
+    "country": "Italy",
+    "value": 20930.61
+  },
+  {
+    "year": 2015,
+    "country": "Italy",
+    "value": 21051.62
+  },
+  {
+    "year": 2016,
+    "country": "Italy",
+    "value": 21092.75
+  },
+  {
+    "year": 2017,
+    "country": "Italy",
+    "value": 21138.65
+  },
+  {
+    "year": 2018,
+    "country": "Italy",
+    "value": 21339.22
+  },
+  {
+    "year": 2000,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2001,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2002,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2003,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2004,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2005,
+    "country": "Cyprus",
+    "value": 11044.35
+  },
+  {
+    "year": 2006,
+    "country": "Cyprus",
+    "value": 11382.23
+  },
+  {
+    "year": 2007,
+    "country": "Cyprus",
+    "value": 12567.75
+  },
+  {
+    "year": 2008,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2009,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2010,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2011,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2012,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2013,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2014,
+    "country": "Cyprus",
+    "value": 20646.47
+  },
+  {
+    "year": 2015,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2016,
+    "country": "Cyprus",
+    "value": null
+  },
+  {
+    "year": 2017,
+    "country": "Cyprus",
+    "value": 20648.68
+  },
+  {
+    "year": 2018,
+    "country": "Cyprus",
+    "value": 21062.48
+  },
+  {
+    "year": 2000,
+    "country": "Latvia",
+    "value": 1670.31
+  },
+  {
+    "year": 2001,
+    "country": "Latvia",
+    "value": 1784.97
+  },
+  {
+    "year": 2002,
+    "country": "Latvia",
+    "value": 1891.44
+  },
+  {
+    "year": 2003,
+    "country": "Latvia",
+    "value": 2096.19
+  },
+  {
+    "year": 2004,
+    "country": "Latvia",
+    "value": 2333.7
+  },
+  {
+    "year": 2005,
+    "country": "Latvia",
+    "value": 2702.25
+  },
+  {
+    "year": 2006,
+    "country": "Latvia",
+    "value": 3371.65
+  },
+  {
+    "year": 2007,
+    "country": "Latvia",
+    "value": 4431.28
+  },
+  {
+    "year": 2008,
+    "country": "Latvia",
+    "value": 5443.86
+  },
+  {
+    "year": 2009,
+    "country": "Latvia",
+    "value": 5424.98
+  },
+  {
+    "year": 2010,
+    "country": "Latvia",
+    "value": 5068.61
+  },
+  {
+    "year": 2011,
+    "country": "Latvia",
+    "value": 5286.45
+  },
+  {
+    "year": 2012,
+    "country": "Latvia",
+    "value": 5462.67
+  },
+  {
+    "year": 2013,
+    "country": "Latvia",
+    "value": 5776.88
+  },
+  {
+    "year": 2014,
+    "country": "Latvia",
+    "value": 6264.34
+  },
+  {
+    "year": 2015,
+    "country": "Latvia",
+    "value": 6814.57
+  },
+  {
+    "year": 2016,
+    "country": "Latvia",
+    "value": 7194.98
+  },
+  {
+    "year": 2017,
+    "country": "Latvia",
+    "value": 7749.72
+  },
+  {
+    "year": 2018,
+    "country": "Latvia",
+    "value": 8514.94
+  },
+  {
+    "year": 2000,
+    "country": "Lithuania",
+    "value": 2270.4
+  },
+  {
+    "year": 2001,
+    "country": "Lithuania",
+    "value": 2343.04
+  },
+  {
+    "year": 2002,
+    "country": "Lithuania",
+    "value": 2510.39
+  },
+  {
+    "year": 2003,
+    "country": "Lithuania",
+    "value": 2694.34
+  },
+  {
+    "year": 2004,
+    "country": "Lithuania",
+    "value": 2871.84
+  },
+  {
+    "year": 2005,
+    "country": "Lithuania",
+    "value": 3137.2
+  },
+  {
+    "year": 2006,
+    "country": "Lithuania",
+    "value": 3751.73
+  },
+  {
+    "year": 2007,
+    "country": "Lithuania",
+    "value": 4714.12
+  },
+  {
+    "year": 2008,
+    "country": "Lithuania",
+    "value": 5667.32
+  },
+  {
+    "year": 2009,
+    "country": "Lithuania",
+    "value": 5361.47
+  },
+  {
+    "year": 2010,
+    "country": "Lithuania",
+    "value": 5245.02
+  },
+  {
+    "year": 2011,
+    "country": "Lithuania",
+    "value": 5401.3
+  },
+  {
+    "year": 2012,
+    "country": "Lithuania",
+    "value": 5635.73
+  },
+  {
+    "year": 2013,
+    "country": "Lithuania",
+    "value": 5954.89
+  },
+  {
+    "year": 2014,
+    "country": "Lithuania",
+    "value": 6284.47
+  },
+  {
+    "year": 2015,
+    "country": "Lithuania",
+    "value": 6651.85
+  },
+  {
+    "year": 2016,
+    "country": "Lithuania",
+    "value": 7217.25
+  },
+  {
+    "year": 2017,
+    "country": "Lithuania",
+    "value": 7897.69
+  },
+  {
+    "year": 2018,
+    "country": "Lithuania",
+    "value": 8691.07
+  },
+  {
+    "year": 2000,
+    "country": "Luxembourg",
+    "value": 25591.03
+  },
+  {
+    "year": 2001,
+    "country": "Luxembourg",
+    "value": 27493.08
+  },
+  {
+    "year": 2002,
+    "country": "Luxembourg",
+    "value": 29222.58
+  },
+  {
+    "year": 2003,
+    "country": "Luxembourg",
+    "value": 29859.4
+  },
+  {
+    "year": 2004,
+    "country": "Luxembourg",
+    "value": 30419.68
+  },
+  {
+    "year": 2005,
+    "country": "Luxembourg",
+    "value": 31176.33
+  },
+  {
+    "year": 2006,
+    "country": "Luxembourg",
+    "value": 31969.4
+  },
+  {
+    "year": 2007,
+    "country": "Luxembourg",
+    "value": 32727.56
+  },
+  {
+    "year": 2008,
+    "country": "Luxembourg",
+    "value": 34156.3
+  },
+  {
+    "year": 2009,
+    "country": "Luxembourg",
+    "value": 35539.77
+  },
+  {
+    "year": 2010,
+    "country": "Luxembourg",
+    "value": 36167.09
+  },
+  {
+    "year": 2011,
+    "country": "Luxembourg",
+    "value": 36278.25
+  },
+  {
+    "year": 2012,
+    "country": "Luxembourg",
+    "value": 37354.34
+  },
+  {
+    "year": 2013,
+    "country": "Luxembourg",
+    "value": 37792.01
+  },
+  {
+    "year": 2014,
+    "country": "Luxembourg",
+    "value": 38443.48
+  },
+  {
+    "year": 2015,
+    "country": "Luxembourg",
+    "value": 38630.79
+  },
+  {
+    "year": 2016,
+    "country": "Luxembourg",
+    "value": 38935.73
+  },
+  {
+    "year": 2017,
+    "country": "Luxembourg",
+    "value": 41340.39
+  },
+  {
+    "year": 2018,
+    "country": "Luxembourg",
+    "value": 42063.48
+  },
+  {
+    "year": 2000,
+    "country": "Hungary",
+    "value": 2684.84
+  },
+  {
+    "year": 2001,
+    "country": "Hungary",
+    "value": 3024.35
+  },
+  {
+    "year": 2002,
+    "country": "Hungary",
+    "value": 3723.71
+  },
+  {
+    "year": 2003,
+    "country": "Hungary",
+    "value": 4112.51
+  },
+  {
+    "year": 2004,
+    "country": "Hungary",
+    "value": 4418.69
+  },
+  {
+    "year": 2005,
+    "country": "Hungary",
+    "value": 4857.23
+  },
+  {
+    "year": 2006,
+    "country": "Hungary",
+    "value": 4865.34
+  },
+  {
+    "year": 2007,
+    "country": "Hungary",
+    "value": 5249.28
+  },
+  {
+    "year": 2008,
+    "country": "Hungary",
+    "value": 5734.59
+  },
+  {
+    "year": 2009,
+    "country": "Hungary",
+    "value": 5409.39
+  },
+  {
+    "year": 2010,
+    "country": "Hungary",
+    "value": 6256.57
+  },
+  {
+    "year": 2011,
+    "country": "Hungary",
+    "value": 6146.32
+  },
+  {
+    "year": 2012,
+    "country": "Hungary",
+    "value": 6369.22
+  },
+  {
+    "year": 2013,
+    "country": "Hungary",
+    "value": 6475.08
+  },
+  {
+    "year": 2014,
+    "country": "Hungary",
+    "value": 6478.42
+  },
+  {
+    "year": 2015,
+    "country": "Hungary",
+    "value": 6703.57
+  },
+  {
+    "year": 2016,
+    "country": "Hungary",
+    "value": 7138.72
+  },
+  {
+    "year": 2017,
+    "country": "Hungary",
+    "value": 8023.72
+  },
+  {
+    "year": 2018,
+    "country": "Hungary",
+    "value": 8586.94
+  },
+  {
+    "year": 2000,
+    "country": "Malta",
+    "value": null
+  },
+  {
+    "year": 2001,
+    "country": "Malta",
+    "value": null
+  },
+  {
+    "year": 2002,
+    "country": "Malta",
+    "value": null
+  },
+  {
+    "year": 2003,
+    "country": "Malta",
+    "value": null
+  },
+  {
+    "year": 2004,
+    "country": "Malta",
+    "value": null
+  },
+  {
+    "year": 2005,
+    "country": "Malta",
+    "value": 11624.5
+  },
+  {
+    "year": 2006,
+    "country": "Malta",
+    "value": 11950.15
+  },
+  {
+    "year": 2007,
+    "country": "Malta",
+    "value": 12514.21
+  },
+  {
+    "year": 2008,
+    "country": "Malta",
+    "value": 13542.87
+  },
+  {
+    "year": 2009,
+    "country": "Malta",
+    "value": 13883.84
+  },
+  {
+    "year": 2010,
+    "country": "Malta",
+    "value": 14473.93
+  },
+  {
+    "year": 2011,
+    "country": "Malta",
+    "value": 15642.97
+  },
+  {
+    "year": 2012,
+    "country": "Malta",
+    "value": 15999.95
+  },
+  {
+    "year": 2013,
+    "country": "Malta",
+    "value": 16306
+  },
+  {
+    "year": 2014,
+    "country": "Malta",
+    "value": 16010
+  },
+  {
+    "year": 2015,
+    "country": "Malta",
+    "value": 16337.95
+  },
+  {
+    "year": 2016,
+    "country": "Malta",
+    "value": 16926.2
+  },
+  {
+    "year": 2017,
+    "country": "Malta",
+    "value": 17305.15
+  },
+  {
+    "year": 2018,
+    "country": "Malta",
+    "value": 17890.15
+  },
+  {
+    "year": 2000,
+    "country": "Netherlands",
+    "value": 21176.15
+  },
+  {
+    "year": 2001,
+    "country": "Netherlands",
+    "value": 23516.66
+  },
+  {
+    "year": 2002,
+    "country": "Netherlands",
+    "value": 24412.4
+  },
+  {
+    "year": 2003,
+    "country": "Netherlands",
+    "value": 25207.28
+  },
+  {
+    "year": 2004,
+    "country": "Netherlands",
+    "value": 25562.89
+  },
+  {
+    "year": 2005,
+    "country": "Netherlands",
+    "value": 26118.14
+  },
+  {
+    "year": 2006,
+    "country": "Netherlands",
+    "value": 27543.04
+  },
+  {
+    "year": 2007,
+    "country": "Netherlands",
+    "value": 28361.73
+  },
+  {
+    "year": 2008,
+    "country": "Netherlands",
+    "value": 28976.84
+  },
+  {
+    "year": 2009,
+    "country": "Netherlands",
+    "value": 30291.69
+  },
+  {
+    "year": 2010,
+    "country": "Netherlands",
+    "value": 30901.41
+  },
+  {
+    "year": 2011,
+    "country": "Netherlands",
+    "value": 31612.2
+  },
+  {
+    "year": 2012,
+    "country": "Netherlands",
+    "value": 31732.71
+  },
+  {
+    "year": 2013,
+    "country": "Netherlands",
+    "value": 31241.89
+  },
+  {
+    "year": 2014,
+    "country": "Netherlands",
+    "value": 32675.67
+  },
+  {
+    "year": 2015,
+    "country": "Netherlands",
+    "value": 34551.5
+  },
+  {
+    "year": 2016,
+    "country": "Netherlands",
+    "value": 34975.7
+  },
+  {
+    "year": 2017,
+    "country": "Netherlands",
+    "value": 35426.38
+  },
+  {
+    "year": 2018,
+    "country": "Netherlands",
+    "value": 36042.43
+  },
+  {
+    "year": 2000,
+    "country": "Austria",
+    "value": 20525.86
+  },
+  {
+    "year": 2001,
+    "country": "Austria",
+    "value": 20773.99
+  },
+  {
+    "year": 2002,
+    "country": "Austria",
+    "value": 21179.51
+  },
+  {
+    "year": 2003,
+    "country": "Austria",
+    "value": 21956.82
+  },
+  {
+    "year": 2004,
+    "country": "Austria",
+    "value": 22004.46
+  },
+  {
+    "year": 2005,
+    "country": "Austria",
+    "value": 22783.76
+  },
+  {
+    "year": 2006,
+    "country": "Austria",
+    "value": 23391.46
+  },
+  {
+    "year": 2007,
+    "country": "Austria",
+    "value": 23970.23
+  },
+  {
+    "year": 2008,
+    "country": "Austria",
+    "value": 24492.09
+  },
+  {
+    "year": 2009,
+    "country": "Austria",
+    "value": 25427.88
+  },
+  {
+    "year": 2010,
+    "country": "Austria",
+    "value": 25770.16
+  },
+  {
+    "year": 2011,
+    "country": "Austria",
+    "value": 26375.67
+  },
+  {
+    "year": 2012,
+    "country": "Austria",
+    "value": 26893.06
+  },
+  {
+    "year": 2013,
+    "country": "Austria",
+    "value": 27520.53
+  },
+  {
+    "year": 2014,
+    "country": "Austria",
+    "value": 27965.34
+  },
+  {
+    "year": 2015,
+    "country": "Austria",
+    "value": 28524.14
+  },
+  {
+    "year": 2016,
+    "country": "Austria",
+    "value": 30601.53
+  },
+  {
+    "year": 2017,
+    "country": "Austria",
+    "value": 31083.14
+  },
+  {
+    "year": 2018,
+    "country": "Austria",
+    "value": 31677.9
+  },
+  {
+    "year": 2000,
+    "country": "Poland",
+    "value": 4153.75
+  },
+  {
+    "year": 2001,
+    "country": "Poland",
+    "value": 4882.23
+  },
+  {
+    "year": 2002,
+    "country": "Poland",
+    "value": 4750.55
+  },
+  {
+    "year": 2003,
+    "country": "Poland",
+    "value": 4338.05
+  },
+  {
+    "year": 2004,
+    "country": "Poland",
+    "value": 4289.23
+  },
+  {
+    "year": 2005,
+    "country": "Poland",
+    "value": 4965.12
+  },
+  {
+    "year": 2006,
+    "country": "Poland",
+    "value": 5356.19
+  },
+  {
+    "year": 2007,
+    "country": "Poland",
+    "value": 6163.2
+  },
+  {
+    "year": 2008,
+    "country": "Poland",
+    "value": 7195.04
+  },
+  {
+    "year": 2009,
+    "country": "Poland",
+    "value": 6093.94
+  },
+  {
+    "year": 2010,
+    "country": "Poland",
+    "value": 6896.23
+  },
+  {
+    "year": 2011,
+    "country": "Poland",
+    "value": 7085.75
+  },
+  {
+    "year": 2012,
+    "country": "Poland",
+    "value": 7235.5
+  },
+  {
+    "year": 2013,
+    "country": "Poland",
+    "value": 7466.23
+  },
+  {
+    "year": 2014,
+    "country": "Poland",
+    "value": 7991.17
+  },
+  {
+    "year": 2015,
+    "country": "Poland",
+    "value": 8275.99
+  },
+  {
+    "year": 2016,
+    "country": "Poland",
+    "value": 8200.43
+  },
+  {
+    "year": 2017,
+    "country": "Poland",
+    "value": 8900.06
+  },
+  {
+    "year": 2018,
+    "country": "Poland",
+    "value": 9420.35
+  },
+  {
+    "year": 2000,
+    "country": "Portugal",
+    "value": 8469.85
+  },
+  {
+    "year": 2001,
+    "country": "Portugal",
+    "value": 9080.6
+  },
+  {
+    "year": 2002,
+    "country": "Portugal",
+    "value": 10291.56
+  },
+  {
+    "year": 2003,
+    "country": "Portugal",
+    "value": 10347.01
+  },
+  {
+    "year": 2004,
+    "country": "Portugal",
+    "value": 10612.7
+  },
+  {
+    "year": 2005,
+    "country": "Portugal",
+    "value": 10982.77
+  },
+  {
+    "year": 2006,
+    "country": "Portugal",
+    "value": 11996.8
+  },
+  {
+    "year": 2007,
+    "country": "Portugal",
+    "value": 12059.7
+  },
+  {
+    "year": 2008,
+    "country": "Portugal",
+    "value": 12157.52
+  },
+  {
+    "year": 2009,
+    "country": "Portugal",
+    "value": 12261.74
+  },
+  {
+    "year": 2010,
+    "country": "Portugal",
+    "value": 12869.63
+  },
+  {
+    "year": 2011,
+    "country": "Portugal",
+    "value": 12435.4
+  },
+  {
+    "year": 2012,
+    "country": "Portugal",
+    "value": 13158.03
+  },
+  {
+    "year": 2013,
+    "country": "Portugal",
+    "value": 12806.65
+  },
+  {
+    "year": 2014,
+    "country": "Portugal",
+    "value": 12629.91
+  },
+  {
+    "year": 2015,
+    "country": "Portugal",
+    "value": 12467.22
+  },
+  {
+    "year": 2016,
+    "country": "Portugal",
+    "value": 12807.39
+  },
+  {
+    "year": 2017,
+    "country": "Portugal",
+    "value": 13051.15
+  },
+  {
+    "year": 2018,
+    "country": "Portugal",
+    "value": 13469.59
+  },
+  {
+    "year": 2000,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2001,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2002,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2003,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2004,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2005,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2006,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2007,
+    "country": "Romania",
+    "value": null
+  },
+  {
+    "year": 2008,
+    "country": "Romania",
+    "value": 3960.48
+  },
+  {
+    "year": 2009,
+    "country": "Romania",
+    "value": 3578.21
+  },
+  {
+    "year": 2010,
+    "country": "Romania",
+    "value": 3874.37
+  },
+  {
+    "year": 2011,
+    "country": "Romania",
+    "value": 4085.51
+  },
+  {
+    "year": 2012,
+    "country": "Romania",
+    "value": 4004.03
+  },
+  {
+    "year": 2013,
+    "country": "Romania",
+    "value": 4343.03
+  },
+  {
+    "year": 2014,
+    "country": "Romania",
+    "value": 4611.94
+  },
+  {
+    "year": 2015,
+    "country": "Romania",
+    "value": 5119.04
+  },
+  {
+    "year": 2016,
+    "country": "Romania",
+    "value": 5520.64
+  },
+  {
+    "year": 2017,
+    "country": "Romania",
+    "value": 6049.96
+  },
+  {
+    "year": 2018,
+    "country": "Romania",
+    "value": 6669.59
+  },
+  {
+    "year": 2000,
+    "country": "Slovenia",
+    "value": 5731.72
+  },
+  {
+    "year": 2001,
+    "country": "Slovenia",
+    "value": 6372.14
+  },
+  {
+    "year": 2002,
+    "country": "Slovenia",
+    "value": 6948.28
+  },
+  {
+    "year": 2003,
+    "country": "Slovenia",
+    "value": 7517.19
+  },
+  {
+    "year": 2004,
+    "country": "Slovenia",
+    "value": 8011.04
+  },
+  {
+    "year": 2005,
+    "country": "Slovenia",
+    "value": 8474.72
+  },
+  {
+    "year": 2006,
+    "country": "Slovenia",
+    "value": 8915.99
+  },
+  {
+    "year": 2007,
+    "country": "Slovenia",
+    "value": 9820.88
+  },
+  {
+    "year": 2008,
+    "country": "Slovenia",
+    "value": 10556.93
+  },
+  {
+    "year": 2009,
+    "country": "Slovenia",
+    "value": 10782.68
+  },
+  {
+    "year": 2010,
+    "country": "Slovenia",
+    "value": 11284.13
+  },
+  {
+    "year": 2011,
+    "country": "Slovenia",
+    "value": 11567.85
+  },
+  {
+    "year": 2012,
+    "country": "Slovenia",
+    "value": 11707.47
+  },
+  {
+    "year": 2013,
+    "country": "Slovenia",
+    "value": 11824.18
+  },
+  {
+    "year": 2014,
+    "country": "Slovenia",
+    "value": 11980.57
+  },
+  {
+    "year": 2015,
+    "country": "Slovenia",
+    "value": 12062.45
+  },
+  {
+    "year": 2016,
+    "country": "Slovenia",
+    "value": 12202.35
+  },
+  {
+    "year": 2017,
+    "country": "Slovenia",
+    "value": 12487.25
+  },
+  {
+    "year": 2018,
+    "country": "Slovenia",
+    "value": 12902.38
+  },
+  {
+    "year": 2000,
+    "country": "Slovakia",
+    "value": 4050.28
+  },
+  {
+    "year": 2001,
+    "country": "Slovakia",
+    "value": 4114.57
+  },
+  {
+    "year": 2002,
+    "country": "Slovakia",
+    "value": 4316.45
+  },
+  {
+    "year": 2003,
+    "country": "Slovakia",
+    "value": 4557.68
+  },
+  {
+    "year": 2004,
+    "country": "Slovakia",
+    "value": 4952.78
+  },
+  {
+    "year": 2005,
+    "country": "Slovakia",
+    "value": 5363.97
+  },
+  {
+    "year": 2006,
+    "country": "Slovakia",
+    "value": 5776.02
+  },
+  {
+    "year": 2007,
+    "country": "Slovakia",
+    "value": 6212.44
+  },
+  {
+    "year": 2008,
+    "country": "Slovakia",
+    "value": 6808.08
+  },
+  {
+    "year": 2009,
+    "country": "Slovakia",
+    "value": 7108.41
+  },
+  {
+    "year": 2010,
+    "country": "Slovakia",
+    "value": 7305.84
+  },
+  {
+    "year": 2011,
+    "country": "Slovakia",
+    "value": 7404.35
+  },
+  {
+    "year": 2012,
+    "country": "Slovakia",
+    "value": 7573.9
+  },
+  {
+    "year": 2013,
+    "country": "Slovakia",
+    "value": 7725.08
+  },
+  {
+    "year": 2014,
+    "country": "Slovakia",
+    "value": 8033.5
+  },
+  {
+    "year": 2015,
+    "country": "Slovakia",
+    "value": 8200.88
+  },
+  {
+    "year": 2016,
+    "country": "Slovakia",
+    "value": 8420.86
+  },
+  {
+    "year": 2017,
+    "country": "Slovakia",
+    "value": 8820.56
+  },
+  {
+    "year": 2018,
+    "country": "Slovakia",
+    "value": 9266.53
+  },
+  {
+    "year": 2000,
+    "country": "Finland",
+    "value": 17430.51
+  },
+  {
+    "year": 2001,
+    "country": "Finland",
+    "value": 18511.05
+  },
+  {
+    "year": 2002,
+    "country": "Finland",
+    "value": 19585.22
+  },
+  {
+    "year": 2003,
+    "country": "Finland",
+    "value": 20290.01
+  },
+  {
+    "year": 2004,
+    "country": "Finland",
+    "value": 21262.64
+  },
+  {
+    "year": 2005,
+    "country": "Finland",
+    "value": 22124.75
+  },
+  {
+    "year": 2006,
+    "country": "Finland",
+    "value": 23282.87
+  },
+  {
+    "year": 2007,
+    "country": "Finland",
+    "value": 24744.36
+  },
+  {
+    "year": 2008,
+    "country": "Finland",
+    "value": 26026.18
+  },
+  {
+    "year": 2009,
+    "country": "Finland",
+    "value": 27191.47
+  },
+  {
+    "year": 2010,
+    "country": "Finland",
+    "value": 27803.54
+  },
+  {
+    "year": 2011,
+    "country": "Finland",
+    "value": 28421.92
+  },
+  {
+    "year": 2012,
+    "country": "Finland",
+    "value": 29246.92
+  },
+  {
+    "year": 2013,
+    "country": "Finland",
+    "value": 29654.15
+  },
+  {
+    "year": 2014,
+    "country": "Finland",
+    "value": 29641.38
+  },
+  {
+    "year": 2015,
+    "country": "Finland",
+    "value": 29918.29
+  },
+  {
+    "year": 2016,
+    "country": "Finland",
+    "value": 30306.38
+  },
+  {
+    "year": 2017,
+    "country": "Finland",
+    "value": 30805.85
+  },
+  {
+    "year": 2018,
+    "country": "Finland",
+    "value": 31239.39
+  },
+  {
+    "year": 2000,
+    "country": "Sweden",
+    "value": 20684.65
+  },
+  {
+    "year": 2001,
+    "country": "Sweden",
+    "value": 20321.66
+  },
+  {
+    "year": 2002,
+    "country": "Sweden",
+    "value": 21700.56
+  },
+  {
+    "year": 2003,
+    "country": "Sweden",
+    "value": 22139.37
+  },
+  {
+    "year": 2004,
+    "country": "Sweden",
+    "value": 22945.65
+  },
+  {
+    "year": 2005,
+    "country": "Sweden",
+    "value": 23388.42
+  },
+  {
+    "year": 2006,
+    "country": "Sweden",
+    "value": 24243.82
+  },
+  {
+    "year": 2007,
+    "country": "Sweden",
+    "value": 26364.04
+  },
+  {
+    "year": 2008,
+    "country": "Sweden",
+    "value": 26789.77
+  },
+  {
+    "year": 2009,
+    "country": "Sweden",
+    "value": 25451.97
+  },
+  {
+    "year": 2010,
+    "country": "Sweden",
+    "value": 29043.96
+  },
+  {
+    "year": 2011,
+    "country": "Sweden",
+    "value": 31319.63
+  },
+  {
+    "year": 2012,
+    "country": "Sweden",
+    "value": 33473.42
+  },
+  {
+    "year": 2013,
+    "country": "Sweden",
+    "value": 34473.44
+  },
+  {
+    "year": 2014,
+    "country": "Sweden",
+    "value": 33923.28
+  },
+  {
+    "year": 2015,
+    "country": "Sweden",
+    "value": 33389.85
+  },
+  {
+    "year": 2016,
+    "country": "Sweden",
+    "value": 33711.94
+  },
+  {
+    "year": 2017,
+    "country": "Sweden",
+    "value": 33923.05
+  },
+  {
+    "year": 2018,
+    "country": "Sweden",
+    "value": 32687.19
+  },
+  {
+    "year": 2000,
+    "country": "United Kingdom",
+    "value": 30322.73
+  },
+  {
+    "year": 2001,
+    "country": "United Kingdom",
+    "value": 31007.99
+  },
+  {
+    "year": 2002,
+    "country": "United Kingdom",
+    "value": 31745.34
+  },
+  {
+    "year": 2003,
+    "country": "United Kingdom",
+    "value": 29671.4
+  },
+  {
+    "year": 2004,
+    "country": "United Kingdom",
+    "value": 31602.41
+  },
+  {
+    "year": 2005,
+    "country": "United Kingdom",
+    "value": 32449.78
+  },
+  {
+    "year": 2006,
+    "country": "United Kingdom",
+    "value": 33695.55
+  },
+  {
+    "year": 2007,
+    "country": "United Kingdom",
+    "value": 35426.57
+  },
+  {
+    "year": 2008,
+    "country": "United Kingdom",
+    "value": 31196.54
+  },
+  {
+    "year": 2009,
+    "country": "United Kingdom",
+    "value": 28019.83
+  },
+  {
+    "year": 2010,
+    "country": "United Kingdom",
+    "value": 29829.08
+  },
+  {
+    "year": 2011,
+    "country": "United Kingdom",
+    "value": 29426.23
+  },
+  {
+    "year": 2012,
+    "country": "United Kingdom",
+    "value": 32361.69
+  },
+  {
+    "year": 2013,
+    "country": "United Kingdom",
+    "value": 31413.75
+  },
+  {
+    "year": 2014,
+    "country": "United Kingdom",
+    "value": 33290.73
+  },
+  {
+    "year": 2015,
+    "country": "United Kingdom",
+    "value": 37959.11
+  },
+  {
+    "year": 2016,
+    "country": "United Kingdom",
+    "value": 34651.93
+  },
+  {
+    "year": 2017,
+    "country": "United Kingdom",
+    "value": 33662.24
+  },
+  {
+    "year": 2018,
+    "country": "United Kingdom",
+    "value": 34274.46
+  },
+  {
+    "year": 2000,
+    "country": "Iceland",
+    "value": 27860.32
+  },
+  {
+    "year": 2001,
+    "country": "Iceland",
+    "value": 25313.39
+  },
+  {
+    "year": 2002,
+    "country": "Iceland",
+    "value": 26541.59
+  },
+  {
+    "year": 2003,
+    "country": "Iceland",
+    "value": 28076.81
+  },
+  {
+    "year": 2004,
+    "country": "Iceland",
+    "value": 29732.44
+  },
+  {
+    "year": 2005,
+    "country": "Iceland",
+    "value": 38019.04
+  },
+  {
+    "year": 2006,
+    "country": "Iceland",
+    "value": 37806.33
+  },
+  {
+    "year": 2007,
+    "country": "Iceland",
+    "value": 42383.61
+  },
+  {
+    "year": 2008,
+    "country": "Iceland",
+    "value": 27556.77
+  },
+  {
+    "year": 2009,
+    "country": "Iceland",
+    "value": 21683.7
+  },
+  {
+    "year": 2010,
+    "country": "Iceland",
+    "value": 23506.13
+  },
+  {
+    "year": 2011,
+    "country": "Iceland",
+    "value": 24971.24
+  },
+  {
+    "year": 2012,
+    "country": "Iceland",
+    "value": 27162.6
+  },
+  {
+    "year": 2013,
+    "country": "Iceland",
+    "value": 29098.7
+  },
+  {
+    "year": 2014,
+    "country": "Iceland",
+    "value": 32941.08
+  },
+  {
+    "year": 2015,
+    "country": "Iceland",
+    "value": 37027.37
+  },
+  {
+    "year": 2016,
+    "country": "Iceland",
+    "value": 44042.96
+  },
+  {
+    "year": 2017,
+    "country": "Iceland",
+    "value": 51933.79
+  },
+  {
+    "year": 2018,
+    "country": "Iceland",
+    "value": 52127.61
+  },
+  {
+    "year": 2000,
+    "country": "Norway",
+    "value": 25488.81
+  },
+  {
+    "year": 2001,
+    "country": "Norway",
+    "value": 27841.12
+  },
+  {
+    "year": 2002,
+    "country": "Norway",
+    "value": 31706.91
+  },
+  {
+    "year": 2003,
+    "country": "Norway",
+    "value": 30841.86
+  },
+  {
+    "year": 2004,
+    "country": "Norway",
+    "value": 30584.86
+  },
+  {
+    "year": 2005,
+    "country": "Norway",
+    "value": 33541.89
+  },
+  {
+    "year": 2006,
+    "country": "Norway",
+    "value": 35049
+  },
+  {
+    "year": 2007,
+    "country": "Norway",
+    "value": 36994.97
+  },
+  {
+    "year": 2008,
+    "country": "Norway",
+    "value": 37977.11
+  },
+  {
+    "year": 2009,
+    "country": "Norway",
+    "value": 36967.18
+  },
+  {
+    "year": 2010,
+    "country": "Norway",
+    "value": 41684.47
+  },
+  {
+    "year": 2011,
+    "country": "Norway",
+    "value": 44490.18
+  },
+  {
+    "year": 2012,
+    "country": "Norway",
+    "value": 47783.08
+  },
+  {
+    "year": 2013,
+    "country": "Norway",
+    "value": 47595.99
+  },
+  {
+    "year": 2014,
+    "country": "Norway",
+    "value": 45903.97
+  },
+  {
+    "year": 2015,
+    "country": "Norway",
+    "value": 44451.47
+  },
+  {
+    "year": 2016,
+    "country": "Norway",
+    "value": 43902.7
+  },
+  {
+    "year": 2017,
+    "country": "Norway",
+    "value": 44931.04
+  },
+  {
+    "year": 2018,
+    "country": "Norway",
+    "value": 45048.41
+  },
+  {
+    "year": 2000,
+    "country": "United States",
+    "value": 26934.48
+  },
+  {
+    "year": 2001,
+    "country": "United States",
+    "value": 28537.22
+  },
+  {
+    "year": 2002,
+    "country": "United States",
+    "value": 27907.19
+  },
+  {
+    "year": 2003,
+    "country": "United States",
+    "value": 24109.63
+  },
+  {
+    "year": 2004,
+    "country": "United States",
+    "value": 22336.92
+  },
+  {
+    "year": 2005,
+    "country": "United States",
+    "value": 22909.51
+  },
+  {
+    "year": 2006,
+    "country": "United States",
+    "value": 23705.76
+  },
+  {
+    "year": 2007,
+    "country": "United States",
+    "value": 23068.07
+  },
+  {
+    "year": 2008,
+    "country": "United States",
+    "value": 22339.29
+  },
+  {
+    "year": 2009,
+    "country": "United States",
+    "value": 24080.76
+  },
+  {
+    "year": 2010,
+    "country": "United States",
+    "value": 25970.44
+  },
+  {
+    "year": 2011,
+    "country": "United States",
+    "value": 25726.07
+  },
+  {
+    "year": 2012,
+    "country": "United States",
+    "value": 28377.81
+  },
+  {
+    "year": 2013,
+    "country": "United States",
+    "value": 27376.96
+  },
+  {
+    "year": 2014,
+    "country": "United States",
+    "value": 28056.9
+  },
+  {
+    "year": 2015,
+    "country": "United States",
+    "value": 34159.7
+  },
+  {
+    "year": 2016,
+    "country": "United States",
+    "value": 34810.06
+  },
+  {
+    "year": 2017,
+    "country": "United States",
+    "value": 34916.19
+  },
+  {
+    "year": 2018,
+    "country": "United States",
+    "value": 35375.34
+  },
+  {
+    "year": 2000,
+    "country": "Japan",
+    "value": 40238.08
+  },
+  {
+    "year": 2001,
+    "country": "Japan",
+    "value": 37236.06
+  },
+  {
+    "year": 2002,
+    "country": "Japan",
+    "value": 33721.18
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
+    "value": 30622.42
+  },
+  {
+    "year": 2004,
+    "country": "Japan",
+    "value": 29935.37
+  },
+  {
+    "year": 2005,
+    "country": "Japan",
+    "value": 29652.05
+  },
+  {
+    "year": 2006,
+    "country": "Japan",
+    "value": 27470.38
+  },
+  {
+    "year": 2007,
+    "country": "Japan",
+    "value": 24701.87
+  },
+  {
+    "year": 2008,
+    "country": "Japan",
+    "value": 26075.19
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
+    "value": 29616.95
+  },
+  {
+    "year": 2010,
+    "country": "Japan",
+    "value": 32591.39
+  },
+  {
+    "year": 2011,
+    "country": "Japan",
+    "value": 34313.42
+  },
+  {
+    "year": 2012,
+    "country": "Japan",
+    "value": 37554.86
+  },
+  {
+    "year": 2013,
+    "country": "Japan",
+    "value": 29267.53
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
+    "value": 27698.05
+  },
+  {
+    "year": 2015,
+    "country": "Japan",
+    "value": 29484.1
+  },
+  {
+    "year": 2016,
+    "country": "Japan",
+    "value": 33249.13
+  },
+  {
+    "year": 2017,
+    "country": "Japan",
+    "value": 31566.35
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
+    "value": 31002.4
+  }
+]
