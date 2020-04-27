@@ -83,7 +83,7 @@ export const lineChart = (htmlElemId, data) => {
   const dataGroupedByCountry = d3.nest()
     .key(({ country }) => country)
     .entries(data);
-  
+
   const countries = dataGroupedByCountry.map(({ key }) => key);
   const colorScale = d3.scaleOrdinal()
     .domain(countries)
@@ -100,4 +100,50 @@ export const lineChart = (htmlElemId, data) => {
       .x(({ year }) => xScale(d3.timeParse('%Y')(year)))
       .y(({ value }) => yScale(value))
     )(values));
+};
+
+export const heatMap = (htmlElemId, data) => {
+  const svg = d3.select(htmlElemId)
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height)
+    .append('g')
+    .attr('transform', 'translate(' + margins.left + ',' + margins.top + ')');
+
+  /* Axes */
+  const genes = [...new Set(data.map(({ gene }) => gene))];
+
+  const xScale = d3.scaleBand()
+    .domain(genes)
+    .range([0, effectiveWidth])
+    .padding(0.01);
+
+  svg.append('g')
+    .attr('transform', 'translate(' + 0 + ',' + effectiveHeight + ')')
+    .call(d3.axisBottom(xScale));
+
+  const treatments = [...new Set(data.map(({ treatment }) => treatment))];
+
+  const yScale = d3.scaleBand()
+    .domain(treatments)
+    .range([effectiveHeight, 0])
+    .padding(0.01);
+
+  svg.append('g')
+    .call(d3.axisLeft(yScale));
+
+  const colorScale = d3.scaleLinear()
+    .domain(d3.extent(data, ({ value }) => value))
+    .range(['white', '#69b3a2']);
+
+  /* Data */
+  svg.selectAll()
+    .data(data, ({ gene, treatment }) => `${gene}:${treatment}`)
+    .enter()
+    .append('rect')
+    .attr('x', ({ gene }) => xScale(gene))
+    .attr('y', ({ treatment }) => yScale(treatment))
+    .attr('width', xScale.bandwidth())
+    .attr('height', yScale.bandwidth())
+    .style('fill', ({ value }) => colorScale(value));
 };

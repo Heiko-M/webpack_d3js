@@ -1,0 +1,82 @@
+[
+  {
+    "gene": "A",
+    "treatment": "1",
+    "value": 100
+  },
+  {
+    "gene": "A",
+    "treatment": "2",
+    "value": 130
+  },
+  {
+    "gene": "A",
+    "treatment": "3",
+    "value": 21
+  },
+  {
+    "gene": "A",
+    "treatment": "4",
+    "value": 310
+  },
+  {
+    "gene": "B",
+    "treatment": "1",
+    "value": 35
+  },
+  {
+    "gene": "B",
+    "treatment": "2",
+    "value": 110
+  },
+  {
+    "gene": "B",
+    "treatment": "3",
+    "value": 55
+  },
+  {
+    "gene": "B",
+    "treatment": "4",
+    "value": 245
+  },
+  {
+    "gene": "C",
+    "treatment": "1",
+    "value": 329
+  },
+  {
+    "gene": "C",
+    "treatment": "2",
+    "value": 221
+  },
+  {
+    "gene": "C",
+    "treatment": "3",
+    "value": 35
+  },
+  {
+    "gene": "C",
+    "treatment": "4",
+    "value": 155
+  },
+  {
+    "gene": "D",
+    "treatment": "1",
+    "value": 70
+  },
+  {
+    "gene": "D",
+    "treatment": "2",
+    "value": 179
+  },
+  {
+    "gene": "D",
+    "treatment": "3",
+    "value": 34
+  },
+  {
+    "gene": "D",
+    "treatment": "4",
+    "value": 93
+  }
+]
