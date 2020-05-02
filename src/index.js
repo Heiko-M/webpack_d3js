@@ -1,5 +1,7 @@
 const { fetchData } = require('./fetch-data');
-const { scatterPlot, lineChart, heatMap } = require('./plot');
+const { heatMap } = require('./plot/heat-map');
+const { lineChart } = require('./plot/line-chart');
+const { scatterPlot } = require('./plot/scatter-plot');
 
 heatMap('#heat_map', require('../data/gene_expression.json'));
 
